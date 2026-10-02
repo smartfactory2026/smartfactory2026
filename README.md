@@ -1,8 +1,8 @@
-# Engineering AI & Software Systems That Can Be Proven
+# Evidence-Driven AI & Software Engineering
 
-I build and evaluate technical systems where **reliability, traceability, production readiness, and verifiable evidence** matter as much as functionality.
+I design and evaluate AI and software systems where **reliability, traceability, production readiness, and measurable evidence** matter as much as functionality.
 
-My public work focuses on selected engineering outputs in:
+### Focus areas
 
 - AI & LLM systems
 - Software architecture and technical assurance
@@ -12,7 +12,7 @@ My public work focuses on selected engineering outputs in:
 - Digital evidence, provenance, and auditability
 - APIs, data flows, and system integration
 
-## Engineering principles
+### Engineering principles
 
 **Evidence over assertion**  
 Technical claims should be traceable to observable evidence.
@@ -21,26 +21,18 @@ Technical claims should be traceable to observable evidence.
 Understand what already works before introducing unnecessary change.
 
 **Build the necessary delta**  
-Reduce irreversible complexity and focus engineering effort where it creates measurable value.
+Reduce unnecessary complexity and focus effort where it creates measurable value.
 
 **Reproducibility matters**  
-Results should be independently testable whenever possible.
+Important results should be independently testable whenever possible.
 
 **AI should remain auditable**  
-High-value AI systems need provenance, bounded claims, explicit uncertainty, and measurable evaluation.
+High-value AI systems benefit from provenance, bounded claims, explicit uncertainty, and measurable evaluation.
 
-## Public work policy
+### Current focus
 
-This profile contains only **selected public projects, benchmarks, demonstrations, and technical documentation**.
-
-Proprietary systems, client materials, private research, internal automation, reusable engineering infrastructure, credentials, and confidential implementation details are intentionally excluded from public repositories.
-
-> Public repositories demonstrate outcomes. They do not expose the private systems used to produce them.
-
-## Current focus
-
-**Sovereign, evidence-grounded AI systems** — systems designed to produce useful outputs while preserving traceability, controllability, and technical accountability.
+**Sovereign, evidence-grounded AI systems** — useful AI with traceability, controllability, and technical accountability.
 
 ---
 
-More public engineering work will be added after security, IP, licensing, and reproducibility review.
+Selected public projects, benchmarks, and technical demonstrations will be published here.
