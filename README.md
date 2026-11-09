@@ -48,6 +48,11 @@ Important results should be independently testable whenever practical.
 **AI should remain auditable**  
 High-value AI systems benefit from provenance, bounded claims, explicit uncertainty, and measurable evaluation.
 
+## Featured case study
+
+**[ARC-AGI-3 2026 — Agent Diagnostics Case Study](case-studies/arc-agi-3-agent-diagnostics.md)**  
+A bounded, evidence-driven study of probe-versus-commit behavior, completion headroom, reproducibility, and failure diagnosis in an interactive AI agent. Verified V8 public leaderboard score: **30.96**.
+
 ## Where I can create value
 
 I am especially interested in difficult problems involving:
