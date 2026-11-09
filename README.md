@@ -4,7 +4,7 @@
 
 Open for **paid technical engagements** in AI-agent diagnostics, software assurance, engineering automation, industrial optimization, and BOQ / estimation workflows.
 
-[**Start a paid engagement**](../../issues/new?template=paid-engagement.yml) · [View ARC-AGI-3 evidence](case-studies/arc-agi-3-agent-diagnostics.md) · [Professional services](services/README.md) · [Trust & evidence standard](TRUST.md)
+[**Start a paid engagement**](https://github.com/smartfactory2026/smartfactory2026/issues/new?template=paid-engagement.yml) · [View ARC-AGI-3 evidence](case-studies/arc-agi-3-agent-diagnostics.md) · [Professional services](services/README.md) · [Trust & evidence standard](TRUST.md)
 
 ---
 
@@ -70,7 +70,7 @@ Typical deliverables:
 
 [View the full service →](services/autonomous-agent-failure-diagnostic.md)
 
-[**Start a paid technical engagement →**](../../issues/new?template=paid-engagement.yml)
+[**Start a paid technical engagement →**](https://github.com/smartfactory2026/smartfactory2026/issues/new?template=paid-engagement.yml)
 
 ---
 
@@ -126,6 +126,6 @@ Public case studies use information that is already public or explicitly approve
 
 If you have a difficult technical problem where failure is expensive, evidence is messy, or the correct next change is unclear:
 
-[**Start a paid technical engagement**](../../issues/new?template=paid-engagement.yml)
+[**Start a paid technical engagement**](https://github.com/smartfactory2026/smartfactory2026/issues/new?template=paid-engagement.yml)
 
 Remote technical engagements can begin with a bounded diagnostic before any larger implementation commitment.
