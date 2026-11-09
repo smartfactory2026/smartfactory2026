@@ -26,7 +26,7 @@ Research themes include:
 - evidence-to-action / commitment behavior
 - minimal control changes instead of full-system rewrites
 
-Competition results are not claimed here before the official announcement. Public technical material will be released only where it is reproducible and appropriate to disclose.
+**Verified ARC-AGI-3 public leaderboard score (V8): 30.96.** This is the official public score for the paper-linked submission; the final private score and final competition placement remain unknown until the organizers publish results. Public technical material will be released only where it is reproducible, license-compatible, and appropriate to disclose.
 
 ## Engineering principles
 
