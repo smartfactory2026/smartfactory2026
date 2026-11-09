@@ -64,6 +64,11 @@ I am especially interested in difficult problems involving:
 - BOQ, quantity takeoff, estimation, and QA/QC automation
 - industrial optimization problems where small errors create real financial waste
 
+## Featured service
+
+**[Autonomous Agent Failure Diagnostic](services/autonomous-agent-failure-diagnostic.md)**  
+For AI agents that stall, loop, waste actions/tokens, fail unpredictably, or improve in development but degrade in real evaluation or production. The engagement produces an evidence-backed failure map, root-cause candidates, minimal experiment plan, and bounded repair recommendation.
+
 ## Working with me
 
 I am building a portfolio of **evidence-backed technical case studies** rather than publishing large amounts of undifferentiated code.
