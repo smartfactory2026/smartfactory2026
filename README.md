@@ -1,91 +1,131 @@
-# Adil B. — Evidence-Driven AI & Software Engineering
+# Adil B. — Applied AI Systems & Evidence-Driven Engineering
 
-I design, diagnose, and improve AI and software systems where **reliability, traceability, reproducibility, and measurable evidence** matter as much as functionality.
+**I diagnose hard AI/software failures, identify the smallest justified intervention, and prove what changed.**
 
-My work focuses on finding the smallest change that creates a real, testable improvement — instead of adding complexity for its own sake.
+Open for **paid technical engagements** in AI-agent diagnostics, software assurance, engineering automation, industrial optimization, and BOQ / estimation workflows.
 
-## What I work on
-
-- **AI agent diagnostics & evaluation** — failure analysis, behavioral testing, generalization checks, and controlled improvement
-- **Software assurance** — reproducibility, provenance, validation, qualification, and production-readiness evidence
-- **Engineering automation** — turning repetitive technical workflows into dependable software systems
-- **Industrial optimization** — decision support, waste reduction, estimation, and workflow optimization
-- **BOQ / Quantity Takeoff / Estimation** — engineering-focused automation and quality-control workflows
-- **Digital evidence & provenance** — auditability, evidence chains, and bounded technical claims
-
-## Selected research & experimentation
-
-### ARC-AGI-3 2026
-Participant in the 2026 ARC-AGI-3 competition, working on interactive agent reasoning under novel environments.
-
-Research themes include:
-- exploration and world-model formation
-- goal discovery and long-horizon action
-- failure diagnosis from agent trajectories
-- generalization testing
-- evidence-to-action / commitment behavior
-- minimal control changes instead of full-system rewrites
-
-**Verified ARC-AGI-3 public leaderboard score (V8): 30.96.** This is the official public score for the paper-linked submission; the final private score and final competition placement remain unknown until the organizers publish results. Public technical material will be released only where it is reproducible, license-compatible, and appropriate to disclose.
-
-## Engineering principles
-
-**Evidence over assertion**  
-Claims should be connected to observable, reproducible evidence.
-
-**Diagnose before rebuilding**  
-Understand the real failure mechanism before replacing a working system.
-
-**Build the necessary delta**  
-Prefer the smallest justified intervention that creates measurable value.
-
-**Preserve what already works**  
-Proven capability is engineering capital, not disposable code.
-
-**Reproducibility matters**  
-Important results should be independently testable whenever practical.
-
-**AI should remain auditable**  
-High-value AI systems benefit from provenance, bounded claims, explicit uncertainty, and measurable evaluation.
-
-## Featured case study
-
-**[ARC-AGI-3 2026 — Agent Diagnostics Case Study](case-studies/arc-agi-3-agent-diagnostics.md)**  
-A bounded, evidence-driven study of probe-versus-commit behavior, completion headroom, reproducibility, and failure diagnosis in an interactive AI agent. Verified V8 public leaderboard score: **30.96**.
-
-## Where I can create value
-
-I am especially interested in difficult problems involving:
-
-- underperforming AI agents
-- unreliable or hard-to-audit AI workflows
-- software that needs technical assurance before production
-- engineering workflows with expensive manual repetition
-- BOQ, quantity takeoff, estimation, and QA/QC automation
-- industrial optimization problems where small errors create real financial waste
-
-## Featured service
-
-**[Autonomous Agent Failure Diagnostic](services/autonomous-agent-failure-diagnostic.md)**  
-For AI agents that stall, loop, waste actions/tokens, fail unpredictably, or improve in development but degrade in real evaluation or production. The engagement produces an evidence-backed failure map, root-cause candidates, minimal experiment plan, and bounded repair recommendation.
-
-## Working with me
-
-I am building a portfolio of **evidence-backed technical case studies** rather than publishing large amounts of undifferentiated code.
-
-Potential engagements include:
-
-- AI-agent diagnostic studies
-- technical audits and failure analysis
-- software assurance / reproducibility reviews
-- engineering automation
-- custom software systems
-- BOQ / estimation workflow automation
-
-If a problem is difficult to measure, reproduce, or explain, that is usually where I am most interested.
+[**Start a paid engagement**](../../issues/new?template=paid-engagement.yml) · [View ARC-AGI-3 evidence](case-studies/arc-agi-3-agent-diagnostics.md) · [Professional services](services/README.md) · [Trust & evidence standard](TRUST.md)
 
 ---
 
-**Current focus:** agentic intelligence, evidence-driven software systems, engineering automation, and commercially useful technical problem solving.
+## What I solve
 
-Selected public projects and reproducible demonstrations will be added here as disclosure and validation reviews are completed.
+I work on systems where a plausible answer is not enough — the result must be measurable, traceable, and defensible.
+
+**AI agents**
+- agents that stall, loop, waste tokens/actions, misuse tools, or behave inconsistently;
+- development improvements that fail to transfer to evaluation or production;
+- unclear failure boundaries between model, memory, tool, runtime, scheduler, and control policy.
+
+**Software assurance**
+- reproducibility and provenance;
+- production-readiness evidence;
+- technical failure analysis;
+- bounded claims and explicit uncertainty.
+
+**Engineering automation**
+- expensive repetitive technical workflows;
+- industrial decision support and optimization;
+- BOQ, quantity takeoff, estimation, and QA/QC workflows.
+
+---
+
+## Public proof
+
+### ARC-AGI-3 2026
+
+I participated in ARC-AGI-3 2026, working on interactive agent reasoning under novel environments.
+
+**Verified official public leaderboard result — V8: 30.96**
+
+The work covered:
+- exploration and world-model formation;
+- goal discovery and long-horizon action;
+- agent-trajectory failure diagnosis;
+- generalization testing;
+- probe-versus-commit behavior;
+- artifact vs. outcome reproducibility;
+- minimal control changes instead of unnecessary full-system rewrites.
+
+The final private score and final competition placement remain unknown until the organizers publish the final results.
+
+[Read the evidence-bounded case study →](case-studies/arc-agi-3-agent-diagnostics.md)
+
+---
+
+## Flagship paid service
+
+### Autonomous Agent Failure Diagnostic
+
+For teams whose AI agent **works sometimes but fails unpredictably**, performs well in development but degrades in real conditions, or consumes too many actions/tokens without clear value.
+
+Typical deliverables:
+- failure map;
+- evidence ledger;
+- ranked root-cause hypotheses;
+- minimal controlled experiment plan;
+- repair / no-change recommendation;
+- regression boundaries;
+- explicit statement of what the evidence proves and does not prove.
+
+[View the full service →](services/autonomous-agent-failure-diagnostic.md)
+
+[**Start a paid technical engagement →**](../../issues/new?template=paid-engagement.yml)
+
+---
+
+## Engineering standard
+
+**Evidence over assertion.**  
+Claims should be connected to observable evidence.
+
+**Diagnose before rebuilding.**  
+A larger model, more memory, or a rewrite is not automatically the correct fix.
+
+**Build the necessary delta.**  
+Prefer the smallest justified intervention that creates measurable value.
+
+**Preserve what works — and what failed.**  
+Proven capability and negative results are engineering capital.
+
+**Separate evidence classes.**  
+Development result ≠ official result ≠ causal proof ≠ hypothesis.
+
+**Reproducibility has layers.**  
+Reproducing an artifact does not guarantee an identical stochastic outcome.
+
+[Read the Trust & Evidence Standard →](TRUST.md)
+
+---
+
+## How a paid engagement works
+
+**1. Scope** — define the business/technical failure and the measurable target.  
+**2. Evidence** — inspect only the evidence required to distinguish the highest-value hypotheses.  
+**3. Diagnosis** — map failure layers and eliminate weak explanations.  
+**4. Minimal intervention** — recommend or implement only the justified delta.  
+**5. Qualification** — test regression, transfer, reproducibility, and claim boundaries.
+
+The objective is not maximum activity. It is **maximum defensible value per unit of complexity, time, and cost**.
+
+---
+
+## Confidentiality & IP
+
+Client material is private by default.
+
+The public GitHub intake form is only for a high-level, non-confidential description. **Do not post credentials, proprietary code, customer data, private datasets, or trade secrets in a public issue.**
+
+Public case studies use information that is already public or explicitly approved for disclosure. Third-party work is attributed to its original authors and remains under its original terms.
+
+[Security & confidentiality policy →](SECURITY.md)
+
+---
+
+## Work with me
+
+If you have a difficult technical problem where failure is expensive, evidence is messy, or the correct next change is unclear:
+
+[**Start a paid technical engagement**](../../issues/new?template=paid-engagement.yml)
+
+Remote technical engagements can begin with a bounded diagnostic before any larger implementation commitment.
