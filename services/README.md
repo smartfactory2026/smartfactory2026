@@ -29,6 +29,6 @@ For AI agents that stall, loop, waste actions or tokens, behave inconsistently, 
 
 ## Start
 
-[Start a paid technical engagement](../issues/new?template=paid-engagement.yml)
+[Start a paid technical engagement](https://github.com/smartfactory2026/smartfactory2026/issues/new?template=paid-engagement.yml)
 
 **Important:** the GitHub intake issue is public. Do not include confidential material.
