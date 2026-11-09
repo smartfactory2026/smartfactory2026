@@ -1,0 +1,85 @@
+name: Paid technical engagement
+description: Start a scoped paid diagnostic, assurance, or engineering engagement.
+title: "[Engagement] "
+assignees:
+  - smartfactory2026
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Start a paid technical engagement
+
+        Use this form for a high-level project inquiry only.
+
+        **This issue will be public. Do not include source code, credentials, private datasets, customer data, trade secrets, unpublished research, or any other confidential information.**
+
+        If the project is a fit, a private working channel can be established before sensitive material is exchanged.
+
+  - type: dropdown
+    id: engagement_type
+    attributes:
+      label: Engagement type
+      description: Choose the closest match.
+      options:
+        - Autonomous Agent Failure Diagnostic
+        - AI / software assurance and reproducibility review
+        - Engineering automation
+        - BOQ / quantity takeoff / estimation workflow
+        - Technical research / failure analysis
+        - Custom technical engagement
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem to solve
+      description: Describe the problem at a non-confidential level.
+      placeholder: What is failing, expensive, slow, unreliable, or difficult to prove?
+    validations:
+      required: true
+
+  - type: textarea
+    id: system
+    attributes:
+      label: Current system or workflow
+      description: Briefly describe the current setup without sharing proprietary details.
+      placeholder: Agent stack, software workflow, engineering process, or current manual process.
+    validations:
+      required: true
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence already available
+      description: What non-confidential evidence exists today?
+      placeholder: Logs, benchmark results, screenshots, failure examples, metrics, test reports, etc.
+
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Desired outcome
+      description: What measurable outcome would make this engagement valuable?
+      placeholder: Reduce failures, identify root cause, qualify a release, automate a workflow, improve reproducibility, etc.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: timing
+    attributes:
+      label: Timing
+      options:
+        - Urgent — within 1–2 weeks
+        - Near term — within 2–4 weeks
+        - Flexible
+        - Exploratory / not yet scheduled
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: confidentiality
+    attributes:
+      label: Public-information confirmation
+      options:
+        - label: I confirm that I have not included secrets, credentials, private source code, customer data, or confidential information in this public issue.
+          required: true
